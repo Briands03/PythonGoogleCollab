@@ -1,2 +1,2 @@
-# PythonGoogleCollab
-Repositori berisi menggunakan python pada google collaborator dan dataset yang diambil di kaggle
+# Sistem Mendeteksi PLAT Mobil dan Motor
+Code yang dapat mendeteksi nomor kendaraan
